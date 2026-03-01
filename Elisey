@@ -1,0 +1,12 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мой сайт</title>
+</head>
+<body style="background:black; color:white; text-align:center; font-family:Arial;">
+    <h1>переходник</h1>
+    <p>каждый будет наказан</p>
+    <a href="https://t.me/elisey" style="color:red;">Мой Telegram</a>
+</body>
+</html>
